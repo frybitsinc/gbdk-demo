@@ -5,7 +5,7 @@
 #include <gb/gb.h>
 #include <stdio.h>
 #include <ctype.h>
-#include <gb/console.h>
+#include <gbdk/console.h>
 #include <gb/drawing.h>
 #include <rand.h>
 #include <gb/hardware.h>
